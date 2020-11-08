@@ -8,4 +8,6 @@ func main() {
 		c.JSON(200, gin.H{"msg": "succ"})
 	})
 	r.Run()
+
+	//this is push data
 }
